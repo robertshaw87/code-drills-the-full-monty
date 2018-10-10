@@ -22,6 +22,6 @@
 
 1. [ROCKET - Character Distance](./05-rock-character-distance)
 
-2. [ALGORITHM - Fake Coin Word Problem](./09-algo-fake-coin)
+2. [BRAIN-TEASER - Fake Coin](./09-brain-fake-coin)
 
-3. [ALGORITHM - Fake Coin Stack Word Problem](./10-algo-fake-coin-stack)
+3. [BRAIN-TEASER - Fake Coin Stack](./10-brain-fake-coin-stack)

@@ -10,7 +10,7 @@
 
 ### Other Drills
 
-1. [ALGORITHM - Water Jars Word Problem](./03-algo-water-jars) *MANDATORY*
+1. [BRAIN-TEASER - Water Jars](./03-brain-water-jars) *MANDATORY*
 
 2. [ALGORITHM - Long Division](./04-algo-long-division)
 

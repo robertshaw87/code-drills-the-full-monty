@@ -13,7 +13,7 @@
 
 5. [ALGORITHM - Find the Missing Number](./05-algo-missing-number) *MANDATORY*
 
-6. [ALGORITHM - River Crossing Word Problem](./06-algo-river-crossing) *MANDATORY*
+6. [BRAIN-TEASER - River Crossing](./06-brain-river-crossing) *MANDATORY*
 
 7. [ALGORITHM - Elevator Simulator](./07-algo-elevator) *MANDATORY*
 
@@ -43,7 +43,7 @@
 
 20. [ALGORITHM - Check Triangle Type](./20-algo-triangle-checker)
 
-21. [ALGORITHM - Bridge Crossing Word Problem](./21-algo-bridge-crossing) *MANDATORY*
+21. [BRAIN-TEASER - Bridge Crossing](./21-brain-bridge-crossing) *MANDATORY*
 
 22. [ROCKET - Candy Checker](./22-rock-string-comparison)
 
