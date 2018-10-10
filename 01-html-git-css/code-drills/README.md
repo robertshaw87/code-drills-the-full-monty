@@ -2,7 +2,7 @@
 
 ### Core Drills *MANDATORY*
 
-1. [CORE - Getting familiar with the Terminal](/01-core-terminal)
+1. [CORE - Getting familiar with the Terminal](./01-core-terminal)
 
 2. [CORE - GitHub Practice](/02-core-github-practice)
 
